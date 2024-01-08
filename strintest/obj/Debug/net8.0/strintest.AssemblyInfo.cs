@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("strintest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d084bf56d679225f6e2a2946c78699ed6180d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("strintest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("strintest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
